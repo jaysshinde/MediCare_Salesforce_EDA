@@ -1,4 +1,4 @@
-# Readme: Medicare Data Analysis for Sales Force Prediction
+# Medicare Data Analysis for Sales Force Prediction
 
 This project focuses on analyzing Medicare data to predict and target specific doctors for the launch of a new injection. With over 20,000 rows of data, we aim to leverage data analytics techniques to provide insights and recommendations for the sales force to effectively target healthcare professionals.
 
